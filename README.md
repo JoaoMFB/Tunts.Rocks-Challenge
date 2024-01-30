@@ -1,5 +1,5 @@
 # Tunts.Rocks-Challenge
-This is the solution of Tunts.Rocks program problem.
+This is the solution of Tunts.Rocks dev training problem.
 The programming challenge requires creating an application to interact with a Google Sheets spreadsheet, calculating student grades based on exam scores, absences, and predetermined criteria. The solution should handle data retrieval, calculations, and updates to the spreadsheet, emphasizing code structure, documentation, and effective implementation practices. 
 In this solution, Python and Sheets API were used.
 
