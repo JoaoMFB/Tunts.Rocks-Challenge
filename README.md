@@ -4,6 +4,7 @@ The programming challenge requires creating an application to interact with a Go
 In this solution, Python and Sheets API were used.
 
 How to run the app:
+
 1 - Ensure that "token.json" is in the same directory as the script;
 
 2 - Make sure Python is correctly installed on your computer;
